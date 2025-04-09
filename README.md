@@ -41,8 +41,9 @@ Please do not submit a generic resume. Instead, include:
 - A concise portfolio or case study (maximum 2 pages) that highlights major AI/ML projects you’ve led, especially those involving multi-agent systems, scalable deployment, or decentralized technologies.
 - A detailed summary of technical challenges you’ve solved and your approach to overcoming them.
 - A brief statement on what motivates you and why you’re excited by this opportunity.
-- 
+
 Send email to roman.mohren@gmail.com
+
 *Applications without concrete project examples and your personal insights will not be considered.*
 
 ## Why Join Us?
